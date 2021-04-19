@@ -17,3 +17,5 @@ Trello:
   https://trello.com/b/3YXrgiEf/segunda-fase-proyecto-15
 Video de ejemplo:
   https://drive.google.com/file/d/1hFHoK9dsBaqs6zznf6WaqDMZZDHoiISv/view?usp=sharing
+Descarga del juego ejecutable
+  https://github.com/Yaser-AndOr/Doodle_Revenge/tree/Doodle_Revenge_Game
