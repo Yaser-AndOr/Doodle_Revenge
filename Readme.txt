@@ -9,3 +9,7 @@ Manual de Usuario:
   https://drive.google.com/file/d/135mLu-_vqCCMfbIcCM2BYBxuhyKXW5ss/view?usp=sharing
 Licencias Creative Commons:
   https://drive.google.com/file/d/1hC6M8uMDBIB2nicMMvyDq2Q4JRLC_n83/view?usp=sharing
+Trello: 
+  https://trello.com/b/3YXrgiEf/segunda-fase-proyecto-15
+Video de ejemplo:
+  https://drive.google.com/file/d/1hFHoK9dsBaqs6zznf6WaqDMZZDHoiISv/view?usp=sharing
