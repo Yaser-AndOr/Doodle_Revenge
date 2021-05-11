@@ -1,0 +1,2 @@
+D:\yaser\Descargas\Doodle_Revenge-main\DoodleRevenge_Menu\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\yaser\Descargas\Doodle_Revenge-main\DoodleRevenge_Menu\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
