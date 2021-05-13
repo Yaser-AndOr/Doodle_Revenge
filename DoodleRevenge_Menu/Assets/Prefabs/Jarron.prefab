@@ -147,7 +147,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyState: Jarron_Destroy
-  idleState: 
+  idleState: Jarron_Idle
   timeForDisable: 0.25
   resset: 1
   prefab: {fileID: 5267069070441256012}
+  HealthBar: {fileID: 3169932458993894612, guid: 3557996088afd6b4ca880a2836c1493d, type: 3}

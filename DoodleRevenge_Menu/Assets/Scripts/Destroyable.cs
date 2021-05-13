@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Destroyable : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class Destroyable : MonoBehaviour
 
     Animator anim;
     public GameObject prefab;
+    public GameObject HealthBar;
     
    
 
@@ -20,6 +22,8 @@ public class Destroyable : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+
+        
     }
 
 
@@ -28,6 +32,7 @@ public class Destroyable : MonoBehaviour
     {
         if (col.tag == "Attack")
         {
+            
             anim.Play(destroyState);
             yield return new WaitForSeconds(timeForDisable);
             foreach (Collider2D c in GetComponents<Collider2D>())
@@ -35,6 +40,7 @@ public class Destroyable : MonoBehaviour
                 c.enabled = false;  
             }
         }
+        
     }
 
     // Update is called once per frame
