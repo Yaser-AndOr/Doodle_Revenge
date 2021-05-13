@@ -10,11 +10,11 @@ Manual de Usuario:
 Video demostrativo:
   https://drive.google.com/drive/folders/1e5l1LMN-DW-hxxVdI9Xvej3vt8IbeAsf?usp=sharing
 Tablero de Trello:
-  https://trello.com/invite/b/3YXrgiEf/36be35967b3b54a46745cc2eeaa1504e/segunda-fase-proyecto-15
+  hhttps://trello.com/invite/b/sO6a3ctq/c316e68a0ec9e1716ce273d3fff5b84e/tercera-y-ultima-fase-de-proyecto1520
 Licencias Creative Commons:
   https://drive.google.com/file/d/1hC6M8uMDBIB2nicMMvyDq2Q4JRLC_n83/view?usp=sharing
 Trello: 
-  https://trello.com/b/3YXrgiEf/segunda-fase-proyecto-15
+  https://trello.com/invite/b/sO6a3ctq/c316e68a0ec9e1716ce273d3fff5b84e/tercera-y-ultima-fase-de-proyecto1520
 Video de ejemplo:
   https://drive.google.com/file/d/1hFHoK9dsBaqs6zznf6WaqDMZZDHoiISv/view?usp=sharing
 Descarga del juego ejecutable
