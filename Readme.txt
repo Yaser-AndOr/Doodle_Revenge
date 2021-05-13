@@ -10,7 +10,7 @@ Manual de Usuario:
 Video demostrativo:
   https://drive.google.com/drive/folders/1e5l1LMN-DW-hxxVdI9Xvej3vt8IbeAsf?usp=sharing
 Tablero de Trello:
-  hhttps://trello.com/invite/b/sO6a3ctq/c316e68a0ec9e1716ce273d3fff5b84e/tercera-y-ultima-fase-de-proyecto1520
+  https://trello.com/invite/b/sO6a3ctq/c316e68a0ec9e1716ce273d3fff5b84e/tercera-y-ultima-fase-de-proyecto1520
 Licencias Creative Commons:
   https://drive.google.com/file/d/1hC6M8uMDBIB2nicMMvyDq2Q4JRLC_n83/view?usp=sharing
 Trello: 
