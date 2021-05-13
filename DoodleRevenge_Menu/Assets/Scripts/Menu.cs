@@ -24,23 +24,23 @@ public class Menu : MonoBehaviour
         if (transicion == false)
         {
             transicion = false;
-            //SceneManager.LoadScene(2);
+            SceneManager.LoadScene(2);
         }
         else if (transicion == true)
         {
             transicion = true;
         }
     }
-    public void nivel3()
-    {
-        if (transicion == false)
-        {
-            transicion = false;
+    //public void nivel3()
+    //{
+        //if (transicion == false)
+        //{
+            //transicion = false;
             //SceneManager.LoadScene(3);
-        }
-        else if (transicion == true)
-        {
-            transicion = true;
-        }
-    }
+        //}
+        //else if (transicion == true)
+       // {
+          //  transicion = true;
+       // }/
+    //}
 }

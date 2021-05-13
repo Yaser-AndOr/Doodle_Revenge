@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Attack
+  - Area
+  - Enemy
+  - hp
+  - EnemyD
+  - Puz
   layers:
   - Default
   - TransparentFX
@@ -12,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Attack
   - 
   - 
   - 
@@ -44,4 +49,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 222208367
+    locked: 0
+  - name: Interface
+    uniqueID: 869349435
     locked: 0

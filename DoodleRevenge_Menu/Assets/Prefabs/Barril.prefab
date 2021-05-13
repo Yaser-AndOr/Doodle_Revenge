@@ -151,3 +151,4 @@ MonoBehaviour:
   timeForDisable: 0.25
   resset: 1
   prefab: {fileID: 7722173605338040262}
+  HealthBar: {fileID: 3169932458993894612, guid: 3557996088afd6b4ca880a2836c1493d, type: 3}
